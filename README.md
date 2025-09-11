@@ -7,6 +7,9 @@ Leveraging on a DID (Difference-In-Differences) model, I compared and analysed t
 
 
 
+### Technical Details
+Language: Python
+Packages: pandas, numpy, statsmodels, matplotlib
 
 
-The data used in this project came from data.gov.sg, courtesy of the 'Singapore Open Data License'. 
+The data used in this project came from data.gov.sg, courtesy of the 'Singapore Open Data License'. [Link Text](https://data.gov.sg/datasets?topics=housing&resultId=189&page=1)
