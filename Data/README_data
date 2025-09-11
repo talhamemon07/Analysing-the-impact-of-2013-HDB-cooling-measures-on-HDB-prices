@@ -1,3 +1,5 @@
 #As mentioned earlier, the data here is sourced from data.gov.sg
 
 #In the initial analysis, I only used data from March 2012 to December 2014, naively thinking that there would be sufficient time for the cooling meausres to take effect, failing to consider time lags. The negative implications of this can be seen in the Jupyter notebook and the perplexing results from the regression analysis in the DID model, where the average price psf actually increased after the cooling measures which was unanticipated. 
+
+#In the second analysis, I expanded the dataset to include data from January 2015 to December 2016, accounting for time lags in the market and enabling for a fairer, balanced analysis of its impact
