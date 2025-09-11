@@ -6,6 +6,8 @@ Leveraging on a DID (Difference-In-Differences) model, I compared and analysed t
 
 
 
+###How to access the Notebooks (Analysis)
+Ideally, please open the constituent files in Notebooks (Analysis) in github.dev. From there, you'll be able to see both my code and my observations/economic analysis
 
 ### Technical Details
 Language: Python
