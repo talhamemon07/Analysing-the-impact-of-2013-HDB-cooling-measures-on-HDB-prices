@@ -1,0 +1,2 @@
+# Analysing-the-impact-of-2013-HDB-cooling-measures-on-HDB-prices
+Leveraging on a DID (Difference-In-Differences) model, I compared and analysed the impact of HDB prices on larger flats that often tend to have speculative, investment demand compared to smaller flats that tend to be owner-occupied. I also document my learning process, in the use of both python and econometric tools like regression analysis
